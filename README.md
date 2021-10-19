@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# Health Care - Medical Hospital
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Site Link [Click Here](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+Bangladesh Specialized Hospital has all the characteristics of a world-class hospital with wide range of services and specialists, equipments and technology, ambience and service quality.
 
-### `npm start`
+The hospital is a showcase of synergy of medical technology and advances in ICT through paperless medical records. The skilled nurses, technologists and administrators of Bangladesh Specialized Hospital.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Services
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+NURSING, PARAMEDICAL & ALLIED SERVICES
 
-### `npm test`
+1. Radiology & Imaging
+2. Ultrasound
+3. ECG
+4. Medical Store
+5. Chemist Shop
+6. Model Pharmacy
+7. Central Sterilized Service Department
+8. 24 hours Blood Bank
+9. 24 hours Laboratory Support
+10. Major OTs and Minor OT
+11. Dialysis (15 Bedded Negative & 3 Bedded Positive)
+12. Anesthesiology
+14. Physiotherapy (10 Bedded)
+16. Chemotherapy (20 Bedded)
+17. RESPI REHAB (Respiratory Rehabilitation Center)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### Help
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Bangladesh Specialized Hospital has all the characteristics of a world-class hospital with wide range of services and specialists, equipments and technology, ambience and service quality.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[ Hotline - 10633 ]
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### Functionality
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+We show our hospital activities by using this site.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Technology Used
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+We used BootStrap, CSS3, HTML5, React, Custom API...etc to Develop this Site.

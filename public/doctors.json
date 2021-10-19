@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Stephana Taill",
+    "image": "https://i.ibb.co/WB5r8zt/f5.jpg",
+    "specialist": "Eye Care Specialist"
+  },
+  {
+    "id": 2,
+    "name": "Angil Ivantyev",
+    "image": "https://i.ibb.co/k0gQ4J4/Smiling-Hispanic-doctor-standing-with-arms-crossed-against-blue-background.jpg",
+    "specialist": "Cardiac Specialist"
+  },
+  {
+    "id": 3,
+    "name": "Heida Jopke",
+    "image": "https://i.ibb.co/VYqBxq1/3.jpg",
+    "specialist": "Mother & Child Care Specialist"
+  },
+  {
+    "id": 4,
+    "name": "Othella Soffe",
+    "image": "https://i.ibb.co/Jrd2PLm/4.jpg",
+    "specialist": "Diabetes Specialis"
+  },
+  {
+    "id": 5,
+    "name": "Berke Yanson",
+    "image": "https://i.ibb.co/qrbyRRB/5.jpg",
+    "specialist": "Orthopedic Specialis"
+  },
+  {
+    "id": 6,
+    "name": "Erin Vaun",
+    "image": "https://i.ibb.co/TtrkjSS/Mature-male-doctor-doing-paperwork-and-looking-towards-camera.jpg",
+    "specialist": "Dental Care Specialis"
+  },
+  {
+    "id": 7,
+    "name": "Mariana Jerok",
+    "image": "https://i.ibb.co/58ZBMR9/7.jpg",
+    "specialist": "Orthopedic Specialis"
+  },
+  {
+    "id": 8,
+    "name": "SRoberto Wogdon",
+    "image": "https://i.ibb.co/tbHt4vJ/f1.jpg",
+    "specialist": "Eye Care Specialist"
+  },
+  {
+    "id": 9,
+    "name": "Arnold Edgington",
+    "image": "https://i.ibb.co/FxCQtH2/f2.jpg",
+    "specialist": "Mother & Child Care Specialist"
+  },
+  {
+    "id": 10,
+    "name": "Arleyne Sanz",
+    "image": "https://i.ibb.co/wC72KKh/f3.jpg",
+    "specialist": "Cardiac Specialist"
+  }
+]

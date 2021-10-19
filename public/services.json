@@ -1,0 +1,75 @@
+[
+
+  {
+    "id": 1,
+    "name": "Eye Care Solutions",
+    "image": "https://i.ibb.co/tMNvn27/Medicine-Hospital-Medical-Clinic-Ophtalmologist-Exam.jpg",
+    "description": "We provides comprehensive eye care services for your entire family. Our services include: Comprehensive vision testing, Vision care for infants and children (Success in school depends on good vision!), Prescriptions for eyeglasses and sunglasses, Contact lenses, Screening for and treatment of eye disease."
+  },
+  {
+    "id": 2,
+    "name": "Dental Care",
+    "image": "https://i.ibb.co/BPCcHr5/dental.jpg",
+    "description": "Good dental or oral care is important to maintaining healthy teeth, gums and tongue. Oral problems, including bad breath, dry mouth, canker or cold sores, TMD, tooth decay, or thrush are all treatable with proper diagnosis and care."
+  },
+  {
+    "id": 3,
+    "name": "Lab Test",
+    "image": "https://i.ibb.co/HzwLCDv/lab.jpg",
+    "description": "It has become the leading diagnostic laboratory in Bangladesh by virtue of its uniqueness in offering diverse tests, reliability and prompt turn around time. We provide state-of-the-art reliable diagnostic services 24 hours a day, 7 days a week, for patients, general practitioners and other hospitals in the country."
+  },
+  {
+    "id": 4,
+    "name": "Medicies And Drug Store",
+    "image": "https://i.ibb.co/5LgPtSJ/store.jpg",
+    "description": "We offers a full line of lab-based and instant drug testing products and services with the critical information you need to make confident and informed decisions about prospective and current employees. We have established a reputation as a leader in workplace drug testing."
+  },
+  {
+    "id": 5,
+    "name": "Outdoor Checkup",
+    "image": "https://i.ibb.co/dbhHfSd/If-you-take-blood-pressure-medicine-you-ll-want-to-double-check-your-bottle-Torrent-Pharmaceuticals.jpg",
+    "description": "Clinical excellence must be the priority for any health care service provider. SQUARE Hospital ensures the best healthcare service comprise of professional (clinical) service excellence with outstanding personal service."
+  },
+  {
+    "id": 6,
+    "name": "Emergency Care",
+    "image": "https://i.ibb.co/jLCN8XX/emergency.jpg",
+    "description": "You may need care in the hospital emergency room (ER). Doctors and nurses there treat emergencies, such as heart attacks and injuries. For some emergencies, you need help where you are. Emergency medical technicians, or EMTs, do specific rescue jobs. They answer emergency calls and give basic medical care."
+  },
+  {
+    "id": 7,
+    "name": "24/7 Special Service",
+    "image": "https://i.ibb.co/d4rTvLz/24hour.jpg",
+    "description": "We provides emergency ambulance service for life support patients. Our ambulances are enriched with modern and advanced technologies for critical patients. We provide ambulance service not only in Uttara but also in Dhaka Metropolitan City. Just dial our helpline for instant and emergency support.  "
+  },
+  {
+    "id": 8,
+    "name": "Diabetes Teatment",
+    "image": "https://i.ibb.co/b6S1n73/diabetes.jpg",
+    "description": "We understand that managing diabetes means making significant lifestyle changes. Following a healthy diet and taking regular exercise are especially important. We provide a range of care and support services to help you manage the challenges of living well with this condition."
+  },
+  {
+    "id": 9,
+    "name": "Mother and Baby Care",
+    "image": "https://i.ibb.co/dKcmf4N/baby.jpg",
+    "description": "When you’re expecting, you want the best possible care for you and your baby, right from the start. We’re committed to providing family-centered, comprehensive services for a healthy pregnancy, whether you need routine or complex care."
+  },
+  {
+    "id": 10,
+    "name": "Heart (Cardiac) Health",
+    "image": "https://i.ibb.co/tqMH3GS/heart.jpg",
+    "description": "If you have heart surgery, a member of the our team may visit you in hospital to give you information about your condition and the procedure you're having. This care will usually continue after you've left hospital."
+  },
+  {
+    "id": 11,
+    "name": "Sergery",
+    "image": "https://i.ibb.co/8zYvPWX/sergery.jpg",
+    "description": "The Medical-Surgical Unit provides care to adults who are hospitalized with a wide variety of conditions, including pneumonia, stroke and fractures. Our caregivers also prepare patients for surgical procedures and provide post-surgical care required until the time of discharge."
+  },
+  {
+    "id": 12,
+    "name": "Orthopedic Treatment.",
+    "image": "https://i.ibb.co/X7zBM4w/Orthopedic.jpg",
+    "description": "Our Hospital has the best orthopaedic department in the country, serving to provide 360º care as a Bone & Joint Centre. Our team diagnoses, operates and treats problems affecting the bones, joints and muscles of patients encompassing all age groups."
+  }
+]
