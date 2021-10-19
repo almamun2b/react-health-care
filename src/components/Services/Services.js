@@ -4,7 +4,6 @@ import Service from '../Service/Service';
 
 const Services = () => {
     const [services] = useServices();
-    // console.log(services);
     return (
         <div>
             <div className='row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4 p-3 mx-auto'>

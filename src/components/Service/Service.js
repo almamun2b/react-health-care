@@ -13,7 +13,7 @@ const Service = ({ service}) => {
                 <div className='mt-2 card-body'>
                     <h4 className='text-primary mt-3 card-title'>{name}</h4>
                     <p><span className='fw-bold'></span> {description}</p>
-                    <Link to={`/services/${id}`}>
+                    <Link to={`/service/${id}`}>
                         <Button variant="danger">Details</Button>
                     </Link>
                 </div>
