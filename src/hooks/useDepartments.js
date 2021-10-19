@@ -1,15 +1,15 @@
 import { useEffect, useState } from 'react';
 
-const useDoctors = () => {
-    const [doctors, setDoctors] = useState([]);
+const useDepartments = () => {
+    const [department, setDepartment] = useState([]);
 
     useEffect(() => {
-        fetch('doctors.json')
+        fetch('department.json')
             .then(res => res.json())
-            .then(data => setDoctors(data))
+            .then(data => setDepartment(data))
     }, []);
 
-    return [doctors];
+    return [department];
 };
 
-export default useDoctors;
+export default useDepartments;

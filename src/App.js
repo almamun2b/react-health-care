@@ -12,6 +12,7 @@ import ServiceDetail from './components/ServiceDetail/ServiceDetail';
 import PrivateRoute from './PrivateRoute/PrivateRoute';
 import Register from './components/Register/Register';
 import About from './components/About/About';
+import Departments from './components/Departments/Departments';
 
 function App() {
   return (
@@ -34,6 +35,9 @@ function App() {
             </Route>
             <PrivateRoute path='/services'>
               <Services></Services>
+            </PrivateRoute>
+            <PrivateRoute path='/department'>
+              <Departments></Departments>
             </PrivateRoute>
             <PrivateRoute path="/services/:serviceId">
               <ServiceDetail></ServiceDetail>
