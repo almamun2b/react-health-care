@@ -43,4 +43,4 @@ We show our hospital activities by using this site.
 
 ### Technology Used
 
-We used BootStrap, CSS3, HTML5, React, Custom API...etc to Develop this Site.
+We used CSS, Bootstrap, React, React Router, Custom-API, Context-API, Firebase to Develop this Site.

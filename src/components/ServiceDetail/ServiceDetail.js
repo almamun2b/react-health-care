@@ -1,16 +1,16 @@
 import React from 'react';
+import useServices from '../../hooks/useServices';
 import { useParams } from 'react-router-dom';
-// import useServices from '../../hooks/useServices';
 
 const ServiceDetail = () => {
-    let { id } = useParams();
-    // const [services] = useServices();
+    const [services] = useServices();
+    const { id } = useParams();
     // const found = services.find(element => element.id === id);
-    // console.log(found);
 
     return (
         <div>
             <h2>This is Service {id}</h2>
+            <h2>This is Service {services.length}</h2>
         </div>
     );
 };
